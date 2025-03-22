@@ -1,0 +1,1874 @@
+2023-03-22 12:44:30,059: root: INFO: SwingHigh : Executing the initialize lifecycle method
+2023-03-22 12:44:31,562: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 12:44:32,202: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 12:44:32,323: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:44:32,344: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:44:32,381: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:44:42,504: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:44:42,529: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:44:42,573: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:44:52,681: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:44:52,703: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:44:52,743: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:45:02,916: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:45:02,947: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:45:03,001: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:45:13,124: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:45:13,152: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:45:13,201: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:45:23,313: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:45:23,332: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:45:23,369: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:45:33,481: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:45:33,502: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:45:33,576: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:45:43,698: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:45:43,725: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:45:43,773: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:45:53,891: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:45:53,911: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:45:53,952: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:46:04,165: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:46:04,192: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:46:04,240: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:46:14,360: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:46:14,380: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:46:14,423: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:46:24,531: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:46:24,554: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:46:24,592: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:46:34,696: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:46:34,719: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:46:34,854: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:46:45,060: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:46:45,080: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:46:45,117: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:46:55,221: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:46:55,243: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:46:55,282: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:47:05,388: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:47:05,411: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:47:05,458: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:47:15,585: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:47:15,609: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:47:15,659: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:47:25,767: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:47:25,789: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:47:25,831: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:47:35,949: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:47:35,973: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:47:36,038: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:47:46,189: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:47:46,212: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:47:46,250: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:47:56,360: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:47:56,383: root: INFO: SwingHigh : Position: 280.000000 shares of GOOG
+2023-03-22 12:47:56,406: root: INFO: SwingHigh : Last 3 prints: [105.99, 106, 106.02]
+2023-03-22 12:47:56,406: root: INFO: SwingHigh : Entry price: 106.02
+2023-03-22 12:47:56,428: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:47:56,495: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 12:47:56,519: root: INFO: New market order of | 10 GOOG buy | with status pending_new was submitted.
+2023-03-22 12:47:56,519: root: INFO: SwingHigh : Executing the on_new_order event method
+2023-03-22 12:47:57,185: root: INFO: Partial Fill Transaction: buy 5 of GOOG at $106.05 per share
+2023-03-22 12:47:57,185: root: INFO: market order of | 10 GOOG buy | with status new was partially filled
+2023-03-22 12:47:57,186: root: INFO: SwingHigh : Executing the on_partially_filled_order event method
+2023-03-22 12:47:57,493: root: INFO: Partial Fill Transaction: buy 1 of GOOG at $106.05 per share
+2023-03-22 12:47:57,493: root: INFO: market order of | 10 GOOG buy | with status partial_fill was partially filled
+2023-03-22 12:47:57,493: root: INFO: SwingHigh : Executing the on_partially_filled_order event method
+2023-03-22 12:47:58,104: root: INFO: Filled Transaction: buy 4 of GOOG at 106.05000000 USD per share
+2023-03-22 12:47:58,104: root: INFO: market order of | 10 GOOG buy | with status partial_fill was filled
+2023-03-22 12:47:58,104: root: INFO: SwingHigh : Executing the on_filled_order event method
+2023-03-22 12:48:06,550: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:48:06,574: root: INFO: SwingHigh : Position: 290.000000 shares of GOOG
+2023-03-22 12:48:06,603: root: INFO: SwingHigh : Last 3 prints: [106, 106.02, 106.045]
+2023-03-22 12:48:06,627: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:48:06,632: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 12:48:06,641: root: INFO: New market order of | 10 GOOG buy | with status pending_new was submitted.
+2023-03-22 12:48:06,642: root: INFO: SwingHigh : Executing the on_new_order event method
+2023-03-22 12:48:07,323: root: INFO: Partial Fill Transaction: buy 5 of GOOG at $106.06 per share
+2023-03-22 12:48:07,323: root: INFO: market order of | 10 GOOG buy | with status new was partially filled
+2023-03-22 12:48:07,324: root: INFO: SwingHigh : Executing the on_partially_filled_order event method
+2023-03-22 12:48:07,632: root: INFO: Filled Transaction: buy 5 of GOOG at 106.06000000 USD per share
+2023-03-22 12:48:07,633: root: INFO: market order of | 10 GOOG buy | with status partial_fill was filled
+2023-03-22 12:48:07,633: root: INFO: SwingHigh : Executing the on_filled_order event method
+2023-03-22 12:48:16,748: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:48:16,772: root: INFO: SwingHigh : Position: 300.000000 shares of GOOG
+2023-03-22 12:48:16,803: root: INFO: SwingHigh : Last 3 prints: [106.02, 106.045, 106.055]
+2023-03-22 12:48:16,830: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:48:16,835: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 12:48:16,849: root: INFO: New market order of | 10 GOOG buy | with status pending_new was submitted.
+2023-03-22 12:48:16,850: root: INFO: SwingHigh : Executing the on_new_order event method
+2023-03-22 12:48:17,164: root: INFO: Partial Fill Transaction: buy 5 of GOOG at $106.06 per share
+2023-03-22 12:48:17,164: root: INFO: market order of | 10 GOOG buy | with status new was partially filled
+2023-03-22 12:48:17,164: root: INFO: SwingHigh : Executing the on_partially_filled_order event method
+2023-03-22 12:48:17,769: root: INFO: Partial Fill Transaction: buy 2 of GOOG at $106.06 per share
+2023-03-22 12:48:17,770: root: INFO: market order of | 10 GOOG buy | with status partial_fill was partially filled
+2023-03-22 12:48:17,770: root: INFO: SwingHigh : Executing the on_partially_filled_order event method
+2023-03-22 12:48:17,862: root: INFO: Partial Fill Transaction: buy 1 of GOOG at $106.06 per share
+2023-03-22 12:48:17,862: root: INFO: market order of | 10 GOOG buy | with status partial_fill was partially filled
+2023-03-22 12:48:17,862: root: INFO: SwingHigh : Executing the on_partially_filled_order event method
+2023-03-22 12:48:18,470: root: INFO: Filled Transaction: buy 2 of GOOG at 106.06000000 USD per share
+2023-03-22 12:48:18,471: root: INFO: market order of | 10 GOOG buy | with status partial_fill was filled
+2023-03-22 12:48:18,471: root: INFO: SwingHigh : Executing the on_filled_order event method
+2023-03-22 12:48:26,937: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:48:26,963: root: INFO: SwingHigh : Position: 310.000000 shares of GOOG
+2023-03-22 12:48:26,988: root: INFO: SwingHigh : Last 3 prints: [106.045, 106.055, 106.08]
+2023-03-22 12:48:27,009: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:48:27,018: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 12:48:27,038: root: INFO: New market order of | 10 GOOG buy | with status pending_new was submitted.
+2023-03-22 12:48:27,039: root: INFO: SwingHigh : Executing the on_new_order event method
+2023-03-22 12:48:27,312: root: INFO: Filled Transaction: buy 10 of GOOG at 106.08000000 USD per share
+2023-03-22 12:48:27,313: root: INFO: market order of | 10 GOOG buy | with status new was filled
+2023-03-22 12:48:27,314: root: INFO: SwingHigh : Executing the on_filled_order event method
+2023-03-22 12:48:37,120: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:48:37,142: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:48:37,215: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:48:47,336: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:48:47,370: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:48:47,413: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:48:57,517: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:48:57,537: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:48:57,577: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:49:07,686: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:49:07,704: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:49:07,739: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:49:17,846: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:49:17,865: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:49:17,901: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:49:27,997: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:49:28,016: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:49:28,052: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:49:38,159: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:49:38,181: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:49:38,245: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:49:48,346: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:49:48,369: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:49:48,423: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:49:58,675: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:49:58,696: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:49:58,736: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:50:08,850: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:50:08,872: root: INFO: SwingHigh : Position: 320.000000 shares of GOOG
+2023-03-22 12:50:08,895: root: INFO: SwingHigh : Last 3 prints: [106.125, 106.135, 106.175]
+2023-03-22 12:50:08,912: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:50:08,956: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 12:50:08,973: root: INFO: New market order of | 10 GOOG buy | with status pending_new was submitted.
+2023-03-22 12:50:08,973: root: INFO: SwingHigh : Executing the on_new_order event method
+2023-03-22 12:50:09,588: root: INFO: Partial Fill Transaction: buy 6 of GOOG at $106.18 per share
+2023-03-22 12:50:09,588: root: INFO: market order of | 10 GOOG buy | with status new was partially filled
+2023-03-22 12:50:09,588: root: INFO: SwingHigh : Executing the on_partially_filled_order event method
+2023-03-22 12:50:10,204: root: INFO: Filled Transaction: buy 4 of GOOG at 106.18000000 USD per share
+2023-03-22 12:50:10,204: root: INFO: market order of | 10 GOOG buy | with status partial_fill was filled
+2023-03-22 12:50:10,205: root: INFO: SwingHigh : Executing the on_filled_order event method
+2023-03-22 12:50:19,014: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:50:19,033: root: INFO: SwingHigh : Position: 330.000000 shares of GOOG
+2023-03-22 12:50:19,051: root: INFO: SwingHigh : Last 3 prints: [106.135, 106.175, 106.19]
+2023-03-22 12:50:19,074: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:50:19,079: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 12:50:19,115: root: INFO: New market order of | 10 GOOG buy | with status pending_new was submitted.
+2023-03-22 12:50:19,115: root: INFO: SwingHigh : Executing the on_new_order event method
+2023-03-22 12:50:19,725: root: INFO: Filled Transaction: buy 10 of GOOG at 106.20000000 USD per share
+2023-03-22 12:50:19,725: root: INFO: market order of | 10 GOOG buy | with status new was filled
+2023-03-22 12:50:19,725: root: INFO: SwingHigh : Executing the on_filled_order event method
+2023-03-22 12:50:29,223: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:50:29,330: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:50:29,395: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:50:39,500: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:50:39,519: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:50:39,622: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:50:49,750: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:50:49,792: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:50:49,827: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:51:00,010: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:51:00,029: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:51:00,064: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:51:10,170: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:51:10,191: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:51:10,225: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:51:20,347: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:51:20,381: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:51:20,426: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:51:30,530: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:51:30,550: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:51:30,589: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:51:40,699: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:51:40,722: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:51:40,788: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:51:50,910: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:51:50,934: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:51:50,972: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:52:01,082: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:52:01,106: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:52:01,147: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:52:11,273: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:52:11,295: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:52:11,331: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:52:21,437: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:52:21,455: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:52:21,493: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:52:31,603: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:52:31,623: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:52:31,663: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:52:41,762: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:52:41,783: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:52:41,852: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:52:51,961: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:52:51,981: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:52:52,017: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:53:02,130: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:53:02,150: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:53:02,191: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:53:12,298: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:53:12,317: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:53:12,361: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:53:22,478: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:53:22,498: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:53:22,537: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:53:32,642: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:53:32,661: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:53:32,700: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:53:42,814: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:53:42,838: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:53:42,922: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:53:53,032: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:53:53,052: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:53:53,097: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:54:03,214: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:54:03,236: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:54:03,273: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:54:13,397: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:54:13,421: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:54:13,465: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:54:23,569: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:54:23,592: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:54:23,631: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:54:36,938: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:54:36,960: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:54:36,998: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:54:47,172: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:54:47,219: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:54:47,336: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:54:57,451: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:54:57,475: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:54:57,536: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:55:07,778: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:55:07,799: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:55:07,839: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 12:55:17,953: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 12:55:17,975: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 12:55:18,012: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:03:55,172: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 13:03:55,342: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 13:03:55,342: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 13:03:55,490: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:03:58,286: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2023-03-22 13:03:58,298: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-03-22 13:03:58,376: alpaca_trade_api.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream/
+2023-03-22 13:04:15,891: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 13:04:15,917: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 517, in _run_trading_session
+    self.strategy._update_cash_with_dividends()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 478, in _update_cash_with_dividends
+    dividends_per_share = self.get_yesterday_dividends(assets)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy.py", line 2791, in get_yesterday_dividends
+    return self.data_source.get_yesterday_dividends(assets, quote=self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 223, in get_yesterday_dividends
+    assets_bars = self.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 175, in get_bars
+    response = task.result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 165, in <lambda>
+    func = lambda args, kwargs: self._pull_source_bars(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 226, in _pull_source_bars
+    data = self.get_barset_from_api(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 164, in get_barset_from_api
+    barset = api.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 714, in get_bars
+    bars = list(self.get_bars_iter(symbol,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 698, in get_bars_iter
+    for bar in bars:
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 585, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 270, in data_get
+    return self._request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 13:04:15,917: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 13:04:15,936: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:04:27,233: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 13:04:27,922: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 13:04:28,091: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:04:28,117: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:04:28,179: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:04:38,302: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:04:38,328: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:04:38,373: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:05:53,675: root: ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-03-22 13:05:53,676: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+2023-03-22 13:05:53,676: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 13:05:53,754: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:06:14,541: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 13:06:15,699: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 13:06:16,243: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:06:16,263: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:06:16,429: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:06:26,532: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:06:26,549: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:06:26,584: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:06:36,685: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:06:36,709: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:06:36,751: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:07:01,930: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:07:01,951: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:07:01,989: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:07:12,152: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:07:12,191: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:07:12,271: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:07:22,387: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:07:22,410: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:07:22,486: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:07:32,602: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:07:32,622: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:07:32,660: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:07:42,771: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:07:42,790: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:07:42,829: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:09:20,096: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 13:09:20,096: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 13:09:20,096: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 13:09:20,169: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:09:40,477: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 13:09:41,458: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 13:09:41,575: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:09:41,595: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:09:41,632: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:09:51,738: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:09:51,778: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:09:51,859: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:10:01,966: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:10:01,985: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:10:02,024: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:11:10,927: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:11:10,954: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:11:11,019: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:11:21,183: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:11:21,223: root: INFO: SwingHigh : Position: 340.000000 shares of GOOG
+2023-03-22 13:11:21,263: root: INFO: SwingHigh : Last 3 prints: [106, 106.015, 106.025]
+2023-03-22 13:11:21,302: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:11:21,434: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 13:11:31,411: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:11:31,431: root: INFO: SwingHigh : Position: 350.000000 shares of GOOG
+2023-03-22 13:11:31,456: root: INFO: SwingHigh : Last 3 prints: [106.015, 106.025, 106.045]
+2023-03-22 13:11:31,477: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:11:31,484: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 13:11:41,612: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:11:41,644: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:11:41,680: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:11:51,686: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+2023-03-22 13:11:51,698: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-03-22 13:11:51,787: alpaca_trade_api.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream/
+2023-03-22 13:11:51,826: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:11:51,853: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:11:51,892: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:28:42,639: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 13:28:42,640: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 13:28:42,642: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 13:28:42,781: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:28:55,009: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 13:28:55,010: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 517, in _run_trading_session
+    self.strategy._update_cash_with_dividends()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 478, in _update_cash_with_dividends
+    dividends_per_share = self.get_yesterday_dividends(assets)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy.py", line 2791, in get_yesterday_dividends
+    return self.data_source.get_yesterday_dividends(assets, quote=self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 223, in get_yesterday_dividends
+    assets_bars = self.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 175, in get_bars
+    response = task.result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 165, in <lambda>
+    func = lambda args, kwargs: self._pull_source_bars(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 226, in _pull_source_bars
+    data = self.get_barset_from_api(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 164, in get_barset_from_api
+    barset = api.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 714, in get_bars
+    bars = list(self.get_bars_iter(symbol,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 698, in get_bars_iter
+    for bar in bars:
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 585, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 270, in data_get
+    return self._request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 13:28:55,010: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 13:28:55,034: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:29:06,708: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 13:29:07,347: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 13:29:07,954: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:29:08,107: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:29:08,150: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:29:18,258: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:29:18,284: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:29:18,321: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:29:28,439: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:29:28,459: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:29:28,509: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:29:38,613: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:29:38,635: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:29:38,676: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:29:48,791: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:29:48,811: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:29:48,853: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:29:58,973: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:29:58,996: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:29:59,044: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:30:09,176: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:30:09,202: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:30:09,312: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:30:19,416: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:30:19,435: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:30:19,474: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:30:29,604: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:30:29,629: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:30:29,675: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:31:01,951: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:31:01,973: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:31:02,018: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:31:12,189: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:31:12,234: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:31:12,353: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:31:22,482: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:31:22,508: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:31:22,555: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:31:32,682: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:31:32,708: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:31:32,753: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 13:31:42,868: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 13:31:42,890: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 13:31:42,928: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:01:13,149: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 14:01:13,150: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 14:01:13,150: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 14:01:13,252: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:01:28,145: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+2023-03-22 14:01:28,178: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-03-22 14:01:28,621: alpaca_trade_api.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream/
+2023-03-22 14:01:34,457: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 14:01:34,458: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 517, in _run_trading_session
+    self.strategy._update_cash_with_dividends()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 478, in _update_cash_with_dividends
+    dividends_per_share = self.get_yesterday_dividends(assets)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy.py", line 2791, in get_yesterday_dividends
+    return self.data_source.get_yesterday_dividends(assets, quote=self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 223, in get_yesterday_dividends
+    assets_bars = self.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 175, in get_bars
+    response = task.result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 165, in <lambda>
+    func = lambda args, kwargs: self._pull_source_bars(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 226, in _pull_source_bars
+    data = self.get_barset_from_api(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 164, in get_barset_from_api
+    barset = api.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 714, in get_bars
+    bars = list(self.get_bars_iter(symbol,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 698, in get_bars_iter
+    for bar in bars:
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 585, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 270, in data_get
+    return self._request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 14:01:34,459: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 14:01:34,572: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:01:46,892: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 14:01:48,076: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 14:01:48,192: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:01:48,210: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:01:48,246: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:01:58,515: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:01:58,655: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:01:58,674: root: INFO: SwingHigh : Last 3 prints: [106.155, 106.43, 106.51]
+2023-03-22 14:01:58,810: root: INFO: market order of | 10 GOOG buy | with status error did not go through. The following error occured: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 14:01:58,812: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:02:08,916: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:02:08,935: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:02:08,968: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:02:19,068: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:02:19,093: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:02:19,137: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:02:29,245: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:02:29,264: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:02:29,301: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:02:39,430: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:02:39,452: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:02:39,488: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:02:50,289: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:02:50,597: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:02:52,439: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:16:51,169: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 14:16:51,170: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 14:16:51,170: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 14:16:51,248: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:16:55,016: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2023-03-22 14:16:55,028: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-03-22 14:16:55,109: alpaca_trade_api.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream/
+2023-03-22 14:17:11,641: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 14:17:11,649: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 517, in _run_trading_session
+    self.strategy._update_cash_with_dividends()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 478, in _update_cash_with_dividends
+    dividends_per_share = self.get_yesterday_dividends(assets)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy.py", line 2791, in get_yesterday_dividends
+    return self.data_source.get_yesterday_dividends(assets, quote=self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 223, in get_yesterday_dividends
+    assets_bars = self.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 175, in get_bars
+    response = task.result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 165, in <lambda>
+    func = lambda args, kwargs: self._pull_source_bars(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 226, in _pull_source_bars
+    data = self.get_barset_from_api(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 164, in get_barset_from_api
+    barset = api.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 714, in get_bars
+    bars = list(self.get_bars_iter(symbol,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 698, in get_bars_iter
+    for bar in bars:
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 585, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 270, in data_get
+    return self._request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 14:17:11,650: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 14:17:11,670: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:17:22,951: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 14:17:23,574: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 14:17:23,704: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:17:23,723: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:17:23,758: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:17:33,880: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:17:33,907: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:17:33,949: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:17:44,069: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:17:44,090: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:17:44,127: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:17:54,257: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:17:54,280: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:17:54,324: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:18:04,442: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:18:04,466: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:18:04,514: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:18:14,629: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:18:14,649: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:18:14,685: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:18:24,809: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:18:24,839: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:18:24,908: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:18:35,049: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:18:35,074: root: INFO: SwingHigh : Position: 360.000000 shares of GOOG
+2023-03-22 14:18:35,098: root: INFO: SwingHigh : Last 3 prints: [106.11, 106.195, 106.26]
+2023-03-22 14:18:35,192: root: INFO: market order of | 10 GOOG buy | with status pending_new was sent to broker alpaca
+2023-03-22 14:18:35,509: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:18:35,509: root: INFO: New market order of | 10 GOOG buy | with status pending_new was submitted.
+2023-03-22 14:18:35,510: root: INFO: SwingHigh : Executing the on_new_order event method
+2023-03-22 14:18:35,946: root: INFO: Partial Fill Transaction: buy 8 of GOOG at $106.18 per share
+2023-03-22 14:18:35,946: root: INFO: market order of | 10 GOOG buy | with status new was partially filled
+2023-03-22 14:18:35,946: root: INFO: SwingHigh : Executing the on_partially_filled_order event method
+2023-03-22 14:18:36,040: root: INFO: Filled Transaction: buy 2 of GOOG at 106.19000000 USD per share
+2023-03-22 14:18:36,040: root: INFO: market order of | 10 GOOG buy | with status partial_fill was filled
+2023-03-22 14:18:36,041: root: INFO: SwingHigh : Executing the on_filled_order event method
+2023-03-22 14:18:45,635: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:18:45,658: root: INFO: SwingHigh : Position: 370.000000 shares of GOOG
+2023-03-22 14:18:45,708: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:34:48,782: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2023-03-22 14:34:48,793: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-03-22 14:34:49,111: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 14:34:49,111: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 14:34:49,111: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 14:34:49,175: alpaca_trade_api.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream/
+2023-03-22 14:34:49,183: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:35:09,153: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 14:35:09,154: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 517, in _run_trading_session
+    self.strategy._update_cash_with_dividends()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 478, in _update_cash_with_dividends
+    dividends_per_share = self.get_yesterday_dividends(assets)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy.py", line 2791, in get_yesterday_dividends
+    return self.data_source.get_yesterday_dividends(assets, quote=self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 223, in get_yesterday_dividends
+    assets_bars = self.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 175, in get_bars
+    response = task.result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 165, in <lambda>
+    func = lambda args, kwargs: self._pull_source_bars(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 226, in _pull_source_bars
+    data = self.get_barset_from_api(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 164, in get_barset_from_api
+    barset = api.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 714, in get_bars
+    bars = list(self.get_bars_iter(symbol,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 698, in get_bars_iter
+    for bar in bars:
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 585, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 270, in data_get
+    return self._request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 14:35:09,154: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 14:35:09,176: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:35:20,438: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 14:35:21,066: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 14:35:21,188: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:35:21,206: root: INFO: SwingHigh : Position: 370.000000 shares of GOOG
+2023-03-22 14:35:21,254: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 14:35:31,364: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 14:35:31,383: root: INFO: SwingHigh : Position: 370.000000 shares of GOOG
+2023-03-22 14:35:31,421: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 15:47:36,102: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2023-03-22 15:47:36,112: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-03-22 15:47:36,459: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 15:47:36,461: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 15:47:36,462: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 15:47:36,609: alpaca_trade_api.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream/
+2023-03-22 15:47:36,611: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 15:47:58,035: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 15:47:58,036: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 517, in _run_trading_session
+    self.strategy._update_cash_with_dividends()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 478, in _update_cash_with_dividends
+    dividends_per_share = self.get_yesterday_dividends(assets)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy.py", line 2791, in get_yesterday_dividends
+    return self.data_source.get_yesterday_dividends(assets, quote=self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 223, in get_yesterday_dividends
+    assets_bars = self.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 175, in get_bars
+    response = task.result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/data_source.py", line 165, in <lambda>
+    func = lambda args, kwargs: self._pull_source_bars(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 226, in _pull_source_bars
+    data = self.get_barset_from_api(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/data_sources/alpaca_data.py", line 164, in get_barset_from_api
+    barset = api.get_bars(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 714, in get_bars
+    bars = list(self.get_bars_iter(symbol,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 698, in get_bars_iter
+    for bar in bars:
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 585, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 270, in data_get
+    return self._request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 15:47:58,037: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 15:47:58,113: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 15:48:09,644: root: WARNING: Unable to find 'dividend' column in bars
+2023-03-22 15:48:10,427: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2023-03-22 15:48:10,531: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 15:48:10,558: root: INFO: SwingHigh : Position: 370.000000 shares of GOOG
+2023-03-22 15:48:10,592: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 15:48:20,698: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 15:48:20,737: root: INFO: SwingHigh : Position: 370.000000 shares of GOOG
+2023-03-22 15:48:20,776: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 15:48:30,887: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method
+2023-03-22 15:48:30,907: root: INFO: SwingHigh : Position: 370.000000 shares of GOOG
+2023-03-22 15:48:30,955: root: INFO: SwingHigh : Sleeping for 10 seconds
+2023-03-22 15:55:53,935: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2023-03-22 15:55:53,948: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-03-22 15:55:54,144: root: ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2023-03-22 15:55:54,146: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 566, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 538, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 261, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    self.strategy._update_portfolio_value()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/strategies/_strategy.py", line 370, in _update_portfolio_value
+    broker_balances = self.broker._get_balances_at_broker(self.quote_asset)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/lumibot/brokers/alpaca.py", line 215, in _get_balances_at_broker
+    response = self.api.get_account()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 276, in get_account
+    resp = self.get('/account')
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 250, in get
+    return self._request('GET', path, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 213, in _request
+    return self._one_request(method, url, opts, retry)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/alpaca_trade_api/rest.py", line 232, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+2023-03-22 15:55:54,146: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2023-03-22 15:55:54,192: alpaca_trade_api.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream/
